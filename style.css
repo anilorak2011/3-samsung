@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+.logo{
+    height:100 px;
+    width: 100 px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+header img{
+    display: flex;
+    justify-content: start;
+    height: 50 px;
+}
+main table{
+    background-color: blue;
+}
+td img{
+    height: 300 px;
+    width: 500 px;
+}
+main tr, main td{
+    border:10 px solid darkblue;
+     border-radius: 18 px;
+}
+table, h2{
+    display: flex;
+    justify-content: center;
+}
+td{
+    background-color: white;
+}
+footer img{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 150 px;
+}
